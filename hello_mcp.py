@@ -1,0 +1,1 @@
+# Hello MCP Demo\n\ndef main():\n    print("Hello from MCP!")\n    print("This file was created using GitHub\u2019s MCP server")\n    print("Demo for PR creation via MCP")\n\nif __name__ == "__main__":\n    main()
